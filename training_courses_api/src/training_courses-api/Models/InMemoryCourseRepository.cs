@@ -7,7 +7,7 @@ namespace training_courses_api.Models
 {
     public class InMemoryCourseRepository: ICourseRepository
     {
-        private List<Course> _db = new List<Course>();
+         private static List<Course> _db = new List<Course>();
 
         InMemoryCourseRepository()
         {
