@@ -1,6 +1,6 @@
 Web Api developed using asp .net core
 --------------------------------------------
-Web API end points for typiocal GetAll, GetBYId, Create, Update and Delete operations developed using Repository pattern and dependency injection. The data is stored a in-memory List.
+Web API end points for typiocal GetAll, GetById, Create, Update and Delete operations developed using Repository pattern and dependency injection. The data is stored a in-memory List.
 
 Testing the end points
 --------------------------------------------
