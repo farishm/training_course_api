@@ -39,7 +39,7 @@ To add a record, select POST with the following json in body for the end point -
     "availableplaces": 90
   }
   
-    To delete a record, select DELETE for the end point - api/course/1
+To delete a record, select DELETE for the end point - api/course/1
 
   
   
